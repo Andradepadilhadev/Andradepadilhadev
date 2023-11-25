@@ -29,10 +29,12 @@
 
 
 <!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=Andradepadilhadev&showicons=trueicons=true=theme=radical)
+![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=Andradepadilhadev&show_icons=true&theme=blue-green)
+
+
 <!-- Portfólio -->
 ## Portfólio:
-- 
+- portfolio em desenvolvimento 
 - 
 
 
