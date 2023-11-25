@@ -1,4 +1,4 @@
- 
+
   <div id="user-content-toc">
   <ul align="center">
   <summary><h1 style="display: inline-block">👋  Olá seja bem vindo 👋 </h1></summary>
@@ -34,7 +34,7 @@
   </details>
 
 <!-- Links -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andradeade08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andradeade08@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andradepadilha_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrade-padilha-de-souza-277885269/)
 
