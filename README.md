@@ -27,15 +27,15 @@
  <img align="center" alt "logo-email" widht="22px" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <a href ="https://www.linkedin.com/in/andrade-padilha-de-souza-277885269/ ">
  <img align="center" alt "logo-linkedin" widht="22px" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <br>
+ <br>
    
- <a href="https://www.instagram.com/andradepadilha_dev ">
-
- 
- <br>
- <br>
+ <!--<a href="https://www.instagram.com/andradepadilha_dev ">>
    
 <!-- Estatísticas do GitHub % das feramentas mais utilizadas  -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=blue-green)
+  <h2>📊 Estatística do Github</h2>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andradepadilhadev&theme=blue-green)
 
 <!-- Estatísticas do GitHub -->
   ![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=Andradepadilhadev&show_icons=true&theme=blue-green)
@@ -53,6 +53,7 @@
 
 <!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
+    <p>Atualmente Estou Criando Projetos de Landipages, Sites e Aplicativos Com as Seguintes Tecnologias:</p>
       <h3>Linguagens de Programação</h3>
       <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img align="center" alt="CSS5" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
