@@ -7,18 +7,21 @@
       <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
       <img src="https://resources/img/waving.gif">
   </div>
-    <p>
-      Olá 👋, sou Andrade Padilha de Souza, um entusiasta da tecnologia imerso no fascinante mundo da programação. Minha paixão por este 
-      universo me impulsiona a mergulhar cada vez mais fundo nesse campo dinâmico e desafiador.
-      - 🌱 Atualmente estou estudando para desenvolvedor full stack na DevClub!
-      - 🔭 Estou procurando minha primeira oportunidade de trabalho como desenvolvedor web.
-    </p>
+    <h3>
+      "Hey pessoal👋! Aqui é o Andrade Padilha de Souza, aquele que ama tecnologia e está sempre imerso no incrível mundo da programação. Minha paixão por esse universo me motiva a ir cada vez mais fundo nesse campo tão dinâmico e desafiador.
+
+🌱 Estou na jornada de desenvolvimento full stack na DevClub!
+🔭 Trabalhando ativamente em projetos para elevar minhas habilidades como desenvolvedor web ao próximo nível.
+
+   </h3>
 <!-- Dropdown -->
-    <details>
+  <h3>  <details>
       <summary>👨‍💻 Mais sobre mim</summary>
+    <br>
       - 💬 Olá, sou Andrade Padilha de Souza, tenho 31 anos, residente em Curitiba/PR. Estou buscando uma transição para uma carreira mais centrada em desenvolvimento web, onde eu possa continuar aprendendo, crescer profissionalmente e compartilhar conhecimento diariamente. Estou preparado para enfrentar novos desafios e contribuir para o sucesso da equipe.
       - ⚡ Gosto de ler um bom livro, além de assistir filmes e jogar videogames nas horas vagas! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
-    </details>
+  </h3>  </details>
+  <br>
 
  <!-- Links -->
  <a href="https://wa.me/5541998780867">
@@ -53,8 +56,8 @@
 
 <!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
-    <p>Atualmente Estou Criando Projetos de Landipages, Sites e Aplicativos Com as Seguintes Tecnologias:</p>
-      <h3>Linguagens de Programação</h3>
+    <h2>Atualmente Estou Criando Projetos de Landipages, Sites e Aplicativos Com as Seguintes Tecnologias:👇</h2>
+    <br>
       <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img align="center" alt="CSS5" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img align="center" alt="HTML5" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -71,6 +74,7 @@
 <!-- Habilidades: Bibliotecas -->
   <div style="flex-basis: 48%;">
         <h3>Bibliotecas</h3>
+        <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
         
         
   </ul>
