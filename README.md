@@ -44,8 +44,20 @@
   ![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=Andradepadilhadev&show_icons=true&theme=blue-green)
 
 <!-- Portfólio -->
-## Portfólio: em desenvolvimento 
+## Portfólio: 👇
  <!-- GIF -->
+ <div align="center"> 
+  <a  href="https://andrade-conversor-de-moedas-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CONVERSOR-DE-MOEDAS.JS/blob/main/assets/foto-mecboock.png?raw=true" width="250px"></a>
+  <a  href="https://andrade-sorteador-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/Projeto-Random/blob/main/assets/macbooke.png?raw=true" width="250px"></a>
+  <a  href="https://andrade-cronometro-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CRON-METRO/blob/main/css/img/macboock.png?raw=true" width="250px"></a>
+ <br>
+  <a  href="https://app.netlify.com/sites/calculadora-devclub/configuration/general/"><img src="https://github.com/Andradepadilhadev/PROJETO-CALCULADORA/blob/main/css/img/gif.gif?raw=true" width="250px"></a>
+  <a  href="https://andrade-jokenpo-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-JOKENP-/blob/main/img/gif-projeto.gif?raw=true" width="250px"></a>
+  <a  href="https://andrade-dragon-ball-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-DRAGON-BALL/blob/main/img/gif-apresenta%C3%A7%C3%A3o.gif?raw=true" width="250px"></a>
+
+</div>
+<br>
+
   <p align="left:40px;">
         <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
       </p>
