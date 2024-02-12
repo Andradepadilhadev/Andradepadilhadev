@@ -44,14 +44,14 @@
   ![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=Andradepadilhadev&show_icons=true&theme=blue-green)
 
 <!-- Portfólio -->
-## Portfólio: 👇
+# Portifólio: 👇
  <!-- GIF -->
  <div align="center"> 
   <a  href="https://andrade-conversor-de-moedas-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CONVERSOR-DE-MOEDAS.JS/blob/main/assets/foto-mecboock.png?raw=true" width="250px"></a>
   <a  href="https://andrade-sorteador-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/Projeto-Random/blob/main/assets/macbooke.png?raw=true" width="250px"></a>
   <a  href="https://andrade-cronometro-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CRON-METRO/blob/main/css/img/macboock.png?raw=true" width="250px"></a>
  <br>
-  <a  href="https://app.netlify.com/sites/calculadora-devclub/configuration/general/"><img src="https://github.com/Andradepadilhadev/PROJETO-CALCULADORA/blob/main/css/img/gif.gif?raw=true" width="250px"></a>
+  <a  href="https://calculadora-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CALCULADORA/blob/main/css/img/gif.gif?raw=true" width="250px"></a>
   <a  href="https://andrade-jokenpo-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-JOKENP-/blob/main/img/gif-projeto.gif?raw=true" width="250px"></a>
   <a  href="https://andrade-dragon-ball-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-DRAGON-BALL/blob/main/img/gif-apresenta%C3%A7%C3%A3o.gif?raw=true" width="250px"></a>
 
@@ -70,24 +70,12 @@
   <div style="flex-basis: 48%;">
     <h2>Atualmente Estou Criando Projetos de Landipages, Sites e Aplicativos Com as Seguintes Tecnologias:👇</h2>
     <br>
-      <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img align="center" alt="CSS5" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img align="center" alt="HTML5" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" alt="TypeScript" height="30" width="40"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-      <img align="center" alt="C" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-      <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-    </div>
-                        <!-- Habilidades: Ferramentas e Frameworks -->
+    
+      
   <div style="flex-basis: 48%;">
       <h3>Ferramentas & Frameworks</h3>
-      <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-     <img align="center" alt="GitHub" height="35" width="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+      <div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs,react,sequelize,postgresql,docker,figma,github,vscode&perline=14"/>
+
 <!-- Habilidades: Bibliotecas -->
-  <div style="flex-basis: 48%;">
-        <h3>Bibliotecas</h3>
-        <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-        
-        
-  </ul>
-</div>
+
