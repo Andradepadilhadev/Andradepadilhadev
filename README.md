@@ -4,7 +4,7 @@
 <!--- snake --->
   
   <div align="center">
-      <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+      <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
       <img src="https://resources/img/waving.gif">
   </div>
     <h3>
@@ -47,13 +47,15 @@
 # Portifólio: 👇
  <!-- GIF -->
  <div align="center"> 
-  <a  href="https://andrade-conversor-de-moedas-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CONVERSOR-DE-MOEDAS.JS/blob/main/assets/foto-mecboock.png?raw=true" width="250px"></a>
-  <a  href="https://andrade-sorteador-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/Projeto-Random/blob/main/assets/macbooke.png?raw=true" width="250px"></a>
+  <a  href="https://devclub-pizzaria.netlify.app/"><img src="https://raw.githubusercontent.com/Andradepadilhadev/PROJETO-DEVCLUB-PIZZARIA-2.4/main/img/mokap-pizzaria.png" width="250px"></a>
+  <a  href="https://andrade-dragon-ball-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-DRAGON-BALL/blob/main/img/macboock.png?raw=true" width="250px"></a>
   <a  href="https://andrade-cronometro-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CRON-METRO/blob/main/css/img/macboock.png?raw=true" width="250px"></a>
  <br>
   <a  href="https://calculadora-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CALCULADORA/blob/main/css/img/gif.gif?raw=true" width="250px"></a>
-  <a  href="https://andrade-jokenpo-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-JOKENP-/blob/main/img/gif-projeto.gif?raw=true" width="250px"></a>
-  <a  href="https://andrade-dragon-ball-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-DRAGON-BALL/blob/main/img/gif-apresenta%C3%A7%C3%A3o.gif?raw=true" width="250px"></a>
+  <a  href="https://andrade-jokenpo-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-JOKENP-/blob/main/img/gif-projeto.gif?raw=true" width="250px" 
+ </a>
+ <a  href="https://andrade-conversor-de-moedas-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/PROJETO-CONVERSOR-DE-MOEDAS.JS/blob/main/assets/foto-mecboock.png?raw=true" width="250px"></a>
+<a  href="https://andrade-sorteador-devclub.netlify.app/"><img src="https://github.com/Andradepadilhadev/Projeto-Random/blob/main/assets/macbooke.png?raw=true" width="250px"></a>
 
 </div>
 <br>
